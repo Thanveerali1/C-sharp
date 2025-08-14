@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "claculate area": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
