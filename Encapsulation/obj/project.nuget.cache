@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4WSGe4+q5s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BCA 39\\Thanveer c#\\Encapsulation\\Encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BCA 39\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
