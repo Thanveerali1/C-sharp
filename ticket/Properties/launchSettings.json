@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ticket": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

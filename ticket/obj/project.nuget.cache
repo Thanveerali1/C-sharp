@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyXWmG+13Mw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BCA 39\\Thanveer c#\\ticket\\ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BCA 39\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
