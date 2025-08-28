@@ -1,0 +1,14 @@
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.AssemblyInfoInputs.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.AssemblyInfo.cs
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\bin\Debug\net8.0\polymorphism.exe
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\bin\Debug\net8.0\polymorphism.deps.json
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\bin\Debug\net8.0\polymorphism.runtimeconfig.json
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\bin\Debug\net8.0\polymorphism.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\bin\Debug\net8.0\polymorphism.pdb
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\refint\polymorphism.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.pdb
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\polymorphism.genruntimeconfig.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\polymorphism\polymorphism\obj\Debug\net8.0\ref\polymorphism.dll
