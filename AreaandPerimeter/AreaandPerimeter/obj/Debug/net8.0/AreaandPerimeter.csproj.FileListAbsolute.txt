@@ -1,0 +1,14 @@
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\bin\Debug\net8.0\AreaandPerimeter.exe
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\bin\Debug\net8.0\AreaandPerimeter.deps.json
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\bin\Debug\net8.0\AreaandPerimeter.runtimeconfig.json
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\bin\Debug\net8.0\AreaandPerimeter.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\bin\Debug\net8.0\AreaandPerimeter.pdb
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.AssemblyInfoInputs.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.AssemblyInfo.cs
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\refint\AreaandPerimeter.dll
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.pdb
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\AreaandPerimeter.genruntimeconfig.cache
+C:\Users\BCA 40\Thanveer ali don't delete the file\Thanveer ali C SHARP\AreaandPerimeter\AreaandPerimeter\obj\Debug\net8.0\ref\AreaandPerimeter.dll
